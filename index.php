@@ -6,6 +6,12 @@
 	<link rel="stylesheet" href="ayar.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant" />
     <link href="cssmenu/cssmenu.css" rel="stylesheet" />
+    <style>
+    	body {
+            margin:0;
+        }
+        #menuDemo { text-align:center; padding:30px 16px;
+    </style>
 	
 	<title>
 	</title>
@@ -15,7 +21,6 @@
 		<h1>Kolay PHP Dersleri</h1>
 		<b>Youtube Kanalı</b>
 	</div>
-
 	<div id="menuDemo">
 <!--start CssMenu-->
 <div class="menu-icon-wrapper">
@@ -29,11 +34,11 @@
 </div>
 <div id="cssmenu">
     <ul>
-        <li><a href="#">Portfolio</a></li>
-        <li><a href="#">Creative</a></li>
-        <li><a href="#">Studio</a></li>
-        <li><a href="#">Press</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="index.php">Anasayfa</a></li>
+        <li><a href="#">PHP</a></li>
+        <li><a href="#">C++</a></li>
+        <li><a href="#">Hakkımda</a></li>
+        <li><a href="#">İletişim</a></li>
     </ul>
 </div>
 <script>
@@ -55,6 +60,7 @@
 </div>
 
 	<div class="icerik">
+		sdfghfd
 		
 	</div>
 
