@@ -5,13 +5,24 @@ body{
 .ust h1{
  margin: 2px;
  padding: 2px;
+ margin-left: 520px;
 } 
 
 .ust b{
-margin-left: 160px;
+margin-left: 605px;
 font-size: 18px;
 } 
 
 .icerik{
 	background: white;
+	min-height: 200px;
+	margin-top: 10px;
+	margin-left: 25px;
+	margin-right: 25px;
+	padding: 10px;
+}
+
+.icerik h1{
+	padding: 1px;
+	margin: 1px;
 }

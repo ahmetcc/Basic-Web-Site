@@ -18,8 +18,8 @@
 </head>
 <body>
 	<div class="ust">
-		<h1>Kolay PHP Dersleri</h1>
-		<b>Youtube Kanalı</b>
+		<h1>Kolay Yazılım Dersleri</h1>
+		<b>Ahmet ÇAKIR</b>
 	</div>
 	<div id="menuDemo">
 <!--start CssMenu-->
@@ -60,7 +60,7 @@
 </div>
 
 	<div class="icerik">
-		sdfghfd
+		<h1>This is a text</h1>
 		
 	</div>
 
