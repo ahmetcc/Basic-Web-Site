@@ -31,3 +31,16 @@ font-size: 18px;
 	font-size: 17px;
 	font-family: consolas;
 }
+
+.footer{
+	background: lightgrey;
+	margin-top: 50px;
+	padding: 25px;
+	font-weight: bold;
+	font-size: 12px;
+	font-family:consolas;
+}
+
+.footer h1{
+	background-color: darkred;
+}
