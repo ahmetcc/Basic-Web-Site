@@ -36,9 +36,9 @@
     <ul>
         <li><a href="index.php">Anasayfa</a></li>
         <li><a href="index.php?git=php">PHP</a></li>
-        <li><a href="#">C++</a></li>
-        <li><a href="#">Hakkımda</a></li>
-        <li><a href="#">İletişim</a></li>
+        <li><a href="index.php?git=C">C++</a></li>
+        <li><a href="index.php?git=hakkimda">Hakkımda</a></li>
+        <li><a href="index.php?git=iletisim">İletişim</a></li>
     </ul>
 </div>
 <script>
@@ -69,11 +69,11 @@
 				include 'php.php';
 				break;
 
-			case 'C++':
-			include 'c++.php';
+			case 'C':
+			include 'C.php';
 			break; 
 
-			case 'Hakkımda':
+			case 'hakkimda':
 			include 'hakkimda.php';
 			break;
 
