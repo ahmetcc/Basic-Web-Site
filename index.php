@@ -60,7 +60,10 @@
 </div>
 
 	<div class="icerik">
-		<h1>This is a text</h1>
+		<?php 
+		
+
+		 ?>
 		
 	</div>
 
