@@ -62,7 +62,7 @@
 	<div class="icerik">
 		<?php 
 
-		$a = $_GET['git'];
+		$a = @$_GET['git'];
 
 		switch ($a) {
 			case 'php':
@@ -79,6 +79,10 @@
 
 			case 'iletisim':
 			include 'iletisim.php';
+			break;
+
+			default:
+			include 'anasayfa.php';
 			break;
 		}
 
