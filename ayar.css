@@ -26,3 +26,8 @@ font-size: 18px;
 	padding: 1px;
 	margin: 1px;
 }
+
+.icerik p {
+	font-size: 17px;
+	font-family: consolas;
+}
